@@ -7,6 +7,12 @@
 
 ## Les frameworks CSS
 
+Les frameworks CSS sont des bibliothèques de styles prédéfinis qui vous permettent de personnaliser rapidement et facilement l'apparence de votre site Web. Ils sont souvent utilisés pour créer des sites Web réactifs et mobiles, et peuvent vous faire gagner beaucoup de temps en évitant d'avoir à écrire du CSS personnalisé à partir de zéro.
+
+Il en existe de nombreux, chacun avec ses propres avantages et inconvénients. Certains sont plus légers et plus rapides, tandis que d'autres sont plus complets et plus puissants. Certains sont basés sur des classes utilitaires, tandis que d'autres sont basés sur des composants.
+
+Nous allons en voir quelques-uns dans ce dépôt. N'hésitez pas à faire de le veille sur les dernières tendances en matière de frameworks CSS, car de nouveaux frameworks sont régulièrement créés et d'autres sont mis à jour.
+
 ### Tailwind CSS
 
 [Tailwind CSS](https://tailwindcss.com/) est un framework CSS qui vous permet de créer des designs personnalisés sans jamais quitter votre fichier HTML. Il est basé sur des classes utilitaires et vous permet de créer des designs personnalisés sans jamais quitter votre fichier HTML.
